@@ -2,6 +2,7 @@ body{
     background-color: black;
     text-align: center;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: white;
 
 }
 .header{
@@ -17,4 +18,30 @@ body{
     font-size: 16px;
     padding-top: 50px;
 
+}
+.travel-guide{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: 300;
+    font-size: 42px;
+    color: white;
+    padding-top: 30px;
+
+}
+.excursion-descrip{
+    color: gray;
+    font-size: 21px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    padding-top: 30px;
+}
+.camp-pic{
+    padding-top: 30px;
+}
+
+.phone-logo{
+    padding-top: 30px;
+}
+footer{
+    text-align: right;
+    color: gray;
+    font-size: 21px;
 }
